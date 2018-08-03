@@ -1,0 +1,3 @@
+rootProject.name = 'AppStart'
+
+include ':app'
